@@ -7,8 +7,7 @@ params:
   description: "Personal Blog of Mahdi"
   keywords: [Blog, Portfolio, PaperMod]
   DateFormat: "January 2, 2006"
-  defaultTheme: dark
-  disableThemeToggle: false
+  disableThemeToggle: true
 
   ShowReadingTime: true
   ShowShareButtons: false
