@@ -1,3 +1,4 @@
+baseURL: "https://comradeanonymousexe.github.io/blog/"
 title: ThoughtDrafts
 theme: PaperMod
 
@@ -31,7 +32,6 @@ params:
 
 
 
-  # profile-mode
   profileMode:
     enabled: false
     title: ThoughtDrafts
