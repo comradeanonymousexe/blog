@@ -1,4 +1,4 @@
-baseURL: "https://comradeanonymousexe.github.io/blog/"
+baseURL : 'https://comradeanonymousexe.github.io/blog'
 title: ThoughtDrafts
 theme: PaperMod
 
@@ -7,8 +7,6 @@ params:
   title: Thought-Drafts
   description: "Personal Blog of Mahdi"
   keywords: [Blog, Portfolio, PaperMod]
-  author: Mahdi
-  images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
   defaultTheme: dark
   disableThemeToggle: false
@@ -19,7 +17,7 @@ params:
   ShowBreadCrumbs: false
   ShowCodeCopyButtons: true
   ShowWordCount: false
-  ShowRssButtonInSectionTermList: false
+  ShowRssButtonInSectionTermList: true
   UseHugoToc: false
   disableSpecial1stPost: false
   disableScrollToTop: false
@@ -44,8 +42,8 @@ params:
 
 
   homeInfoParams:
-    Title: "Welcome"
-    Content: Personal Diary of Notes and Blogs
+    Title: "Welcome!"
+    Content: Personal Diary of Notes and Blogs. Made with Hugo, PaperMod and Docker.
 markup:
   goldmark:
     renderer:

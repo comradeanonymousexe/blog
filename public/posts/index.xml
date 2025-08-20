@@ -2,22 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on ThoughtDrafts</title>
-    <link>//localhost:1313/posts/</link>
+    <link>http://localhost:1313/blog/posts/</link>
     <description>Recent content in Posts on ThoughtDrafts</description>
-    <image>
-      <title>ThoughtDrafts</title>
-      <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
     <generator>Hugo -- 0.148.2</generator>
     <language>en</language>
     <lastBuildDate>Tue, 19 Aug 2025 17:45:45 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Excuse of Failure (Old Literatures)</title>
-      <link>//localhost:1313/posts/excuse/</link>
+      <link>http://localhost:1313/blog/posts/excuse/</link>
       <pubDate>Tue, 19 Aug 2025 17:45:45 +0000</pubDate>
-      <guid>//localhost:1313/posts/excuse/</guid>
+      <guid>http://localhost:1313/blog/posts/excuse/</guid>
       <description>&lt;p&gt;একটি কবিতা লিখবার আকাঙ্ক্ষায়&lt;br&gt;
 কৃষ্ণপক্ষের প্রথম রাত্রি থেকে কানে কলম গুঁজে বসে আছি নির্নিমেষ,&lt;br&gt;
 শুনে এক তাত্ত্বিক বললেন-&lt;br&gt;
@@ -42,9 +37,9 @@
     </item>
     <item>
       <title>Rainy Night (Old Literatures)</title>
-      <link>//localhost:1313/posts/rain/</link>
+      <link>http://localhost:1313/blog/posts/rain/</link>
       <pubDate>Tue, 19 Aug 2025 17:31:42 +0000</pubDate>
-      <guid>//localhost:1313/posts/rain/</guid>
+      <guid>http://localhost:1313/blog/posts/rain/</guid>
       <description>&lt;p&gt;গ্রীষ্মের তপ্ততা যেদিন নিজ স্বৈরশাসনের প্রতি সন্তষ্ট হলো, সে দিবসের সপ্তম প্রহরে বজ্রবাহী কালো মেঘ-সৈন্যরা আকাশটাকে দখল করে নিল । চাঁদ ঢাকা পড়লো তাদের আড়ালে ।&lt;/p&gt;
 &lt;p&gt;নিশাচর পক্ষীকূল নিরাপদে সেধিয়ে গেল গাছের কোটরগুলোতে । পূর্ণিমায় মধ্য আকাশে বেড়াতে আসা ডাইনী চোখ বড় বড় করে ঝাড়ুর মুখ ঘুরিয়ে দিল নিজ গুহার দিকে।&lt;/p&gt;
 &lt;p&gt;মাহব্যাপী রৌদ্ররাজ- প্রজাকূল যেই জলাধারগুলো শোষণ করে বন্দী রেখেছিলো আকাশের কুঠুরীতে; জিঞ্জির ছিঁড়ে সেই বিদ্রোহী বাষ্প গ্রীষ্ম ধ্বংসের ধ্রূপদ গাইতে গাইতে সারিবদ্ধ হয়েছে জ্যৈষ্ঠের সর্বশেষ দিবসের সপ্তম প্রহরে। পূর্ণচন্দ্র উহ্য রয়েছে তাদের অন্তরালে ।&lt;br&gt;
@@ -52,9 +47,9 @@
     </item>
     <item>
       <title>Hello World</title>
-      <link>//localhost:1313/posts/hello-world/</link>
+      <link>http://localhost:1313/blog/posts/hello-world/</link>
       <pubDate>Tue, 19 Aug 2025 16:55:49 +0000</pubDate>
-      <guid>//localhost:1313/posts/hello-world/</guid>
+      <guid>http://localhost:1313/blog/posts/hello-world/</guid>
       <description>&lt;p&gt;Hello, One two three?&lt;br&gt;
 just testing ~&lt;/p&gt;</description>
     </item>
