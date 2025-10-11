@@ -41,7 +41,7 @@ params:
 
   homeInfoParams:
     Title: "Welcome!"
-    Content: Personal Diary of Notes and Blogs. Made with Hugo, PaperMod and Docker.  Hugo is an SSG or Static Site Generator. Combining the features of a static site (Fast, Secure, Economic) with semi-dynamic facilities such as blogging. To work with Hugo in whatsoever configuration of local device - it is best to use GoHugo Docker Containers.
+    Content: Personal Diary of Notes and Thoughts. Made with Hugo, PaperMod and Docker. 
   
   socialIcons:
     - name: github
@@ -54,3 +54,4 @@ markup:
   goldmark:
     renderer:
       hardWraps: true
+      unsafe: true

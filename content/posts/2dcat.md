@@ -1,7 +1,9 @@
 +++
 date = '2025-10-02T14:47:39Z'
 draft = false
-title = 'A 2-Dimensional Cat Named Kat'
+title = 'A 2-Dimensional Cat'
+tags = ["literature","prose"]
+
 +++
 
 Once upon a time, there lived a 3-Dimensional kitten behind the bookshelves of this library situated beside a busy road of the city.
@@ -15,9 +17,9 @@ Kat would always meow in agreement.
 
 Riemann was a boy on the spectrum. 
 
-One morning, the sneaky little Kat was in the pursuit of her breakfast. darting across the road again and again in search of delicious leftovers. 
+One morning, the sneaky little Kat was in the pursuit of her breakfast. darting across the road again and again searching for delicious leftovers. 
 When a proud owner of a brand-new Premio rolled over her.
 Her soft flesh was pressed flat against the ground.
 
 
-Riemann that morning, found her Kat 2-Dimensional  and wondered if perhaps Einstein had been wrong - perhaps the laws of the universe were *truly* simpler in that lower second dimenion, where Kat had gone.
+Riemann that morning, found her Kat 2-Dimensional  and wondered if perhaps Einstein had been wrong - perhaps the laws of the universe were simpler in that lower dimenion, where Kat had gone.
